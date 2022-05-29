@@ -1,6 +1,6 @@
 {
-    "name": "green_button",
-    "short_name": "green_button",
+    "name": "green_button_showcase",
+    "short_name": "green_button_showcase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
